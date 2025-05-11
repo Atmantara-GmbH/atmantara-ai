@@ -1,6 +1,6 @@
 # Atmantara AI Infrastructure
 
-Atmantara is a scalable, enterprise-grade AI infrastructure platform designed for banks, insurers, and fintechs. It simplifies the full ML lifecycle—from training to deployment—with built-in support for compliance and data governance.
+Atmantara is a scalable, enterprise-grade AI infrastructure platform designed for banks, insurers, and fintechs. It simplifies the full ML lifecycle, from training to deployment, with built-in support for compliance and data governance.
 
 ## 🚀 Features
 - End-to-end model lifecycle management
